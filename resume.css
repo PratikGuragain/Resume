@@ -18,7 +18,7 @@ body {
     gap: 0.3em;
 }
 .containerA {
-    height: 195px;
+    height: 295px;
     width: 97.5%;
     border: 5px solid gray;
     padding: 1em;
@@ -61,6 +61,15 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+header {
+    text-align: left;
+}
+
+header img {
+    border-radius: 50%; /* To make the image circular */
+    width: 100px; /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
 }
 
 
