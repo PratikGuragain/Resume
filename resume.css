@@ -1,0 +1,69 @@
+h1 p {
+    background: rgb(0, 251, 171);
+    margin: 0em;
+    color: rgb(0, 145, 255);
+    padding: 0.1em;
+    display: inline; /* Adjust display property to inline */
+}
+
+body {
+    color: rgb(126, 46, 253);
+}
+.containerG {
+    height: 220px;
+    width: 97.5%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    gap: 0.3em;
+}
+.containerA {
+    height: 195px;
+    width: 97.5%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    gap: 0.3em;
+}
+.containerB {
+    height: 225px;
+    width: 97.5%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    gap: 0.3em;
+}
+.containerC {
+    height: 255px;
+    width: 97.5%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    gap: 0.3em;
+}
+.containerM {
+    height: 145px;
+    width: 97.5%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    gap: 0.3em;
+}
+.containerS {
+    height: 100px;
+    width: 97.5%;
+    border: 1px solid gray;
+    padding: 1em;
+    display: grid;
+    gap: 0.3em;
+}
+.centerFlex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.oneG {
+    grid-area: one;
+}
+
+
