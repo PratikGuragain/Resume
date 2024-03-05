@@ -12,7 +12,7 @@ body {
 .containerG {
     height: 220px;
     width: 97.5%;
-    border: 1px solid gray;
+    border: 5px solid gray;
     padding: 1em;
     display: grid;
     gap: 0.3em;
@@ -20,7 +20,7 @@ body {
 .containerA {
     height: 195px;
     width: 97.5%;
-    border: 1px solid gray;
+    border: 5px solid gray;
     padding: 1em;
     display: grid;
     gap: 0.3em;
@@ -28,7 +28,7 @@ body {
 .containerB {
     height: 225px;
     width: 97.5%;
-    border: 1px solid gray;
+    border: 5px solid gray;
     padding: 1em;
     display: grid;
     gap: 0.3em;
@@ -36,7 +36,7 @@ body {
 .containerC {
     height: 255px;
     width: 97.5%;
-    border: 1px solid gray;
+    border: 5px solid gray;
     padding: 1em;
     display: grid;
     gap: 0.3em;
@@ -44,7 +44,7 @@ body {
 .containerM {
     height: 145px;
     width: 97.5%;
-    border: 1px solid gray;
+    border: 5px solid gray;
     padding: 1em;
     display: grid;
     gap: 0.3em;
@@ -52,7 +52,7 @@ body {
 .containerS {
     height: 100px;
     width: 97.5%;
-    border: 1px solid gray;
+    border: 5px solid gray;
     padding: 1em;
     display: grid;
     gap: 0.3em;
